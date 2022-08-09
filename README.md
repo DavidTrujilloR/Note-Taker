@@ -11,7 +11,7 @@ A simple to use note taking app that utilizes Node.js and Express.js to write an
 
 ## Walkthrough Video
 
-[Walkthrough Video](./assets/)
+[Image](./public/assets/images/image.png)
 
 ## GitHub
 
